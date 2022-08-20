@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(6, 6, 4);
+  }
+  h1 {
+    color: blue;
+    text-align: center;
+    }
+
+  p {
+    color: black;
+    text-align:justify
+    
+}
+  
+  h2 {
+    color: green;
+    text-align: left;
+    
+  }
+  h3 {
+    color: yellow;
+    text-align: left;
+  }
+  p {
+    color: black;
+    text-align: left;
+  }
+  header {
+    background-color: whitesmoke
+}
+section {
+    background-color: whitesmoke;
+}
+
+aside {
+    background-color: black;
+}
+
+footer {
+        background-color: rgb(0, 128, 255);
+}
+
+#Contacto {
+    background-color: blue
+}
+#Contacto.title{
+
+    font-size: 100px;
+    background-color: black;
+    color: green;
+}
+
+.title {
+
+    font-size: 30px;
+    background-color: olive;
+    opacity: 0.5;
+    color: white;
+  }
